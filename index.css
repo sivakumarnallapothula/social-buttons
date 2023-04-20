@@ -1,0 +1,31 @@
+/* Write your code here. */
+.ks {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  background-image: url("https://assets.ccbp.in/frontend/react-js/social-buttons-bg.png");
+}
+.oo {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.s {
+  font-family: Bree Serif;
+  background-color: white;
+  color: black;
+}
+.ss {
+  font-family: Bree Serif;
+  background-color: blue;
+}
+.r {
+  font-family: Bree Serif;
+  background-color: #eab308;
+}
+.p {
+  color: white;
+}
